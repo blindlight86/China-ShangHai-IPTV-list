@@ -13,7 +13,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育HD
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="	上视外语" tvg-name="上视外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",外语频道HD
+#EXTINF:-1 tvg-id="上视外语" tvg-name="上视外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",外语频道HD
 http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
