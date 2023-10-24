@@ -7,24 +7,46 @@ http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文HD
 http://117.135.56.6:6060/cms001/ch00000090990000001019/index.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
+http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经HD
 http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育HD
 http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",外语频道HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上海ICS外语HD
 http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-1HD
-http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-2HD
-http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-3HD
-http://117.135.56.6:6060/cms001/ch00000090990000001041/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-4HD
-http://117.135.56.6:6060/cms001/ch00000090990000001042/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-5HD
-http://117.135.56.6:6060/cms001/ch00000090990000001043/index.m3u8
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海",七彩戏剧
+http://117.135.56.6:6060/cms001/ch00000090990000001308/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
+http://117.135.56.6:6060/cms001/ch00000090990000001268/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",东方财经
+http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海",欢笑剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
+http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海",乐游
+http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="上海",都市剧场
+http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
+http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="上海",哈哈炫动
+http://117.135.56.6:6060/cms001/ch00000090990000001232/index.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海",游戏风云
+http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-1HD
+# http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-2HD
+# http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-3HD
+# http://117.135.56.6:6060/cms001/ch00000090990000001041/index.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-4HD
+# http://117.135.56.6:6060/cms001/ch00000090990000001042/index.m3u8
+# #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-5HD
+# http://117.135.56.6:6060/cms001/ch00000090990000001043/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1HD
 http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2HD
@@ -75,6 +97,12 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="其他频道",家庭理财
+http://117.135.56.6:6060/cms001/ch00000090990000001278/index.m3u8
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他频道",财富天下
+http://117.135.56.6:6060/cms001/ch00000090990000001219/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他频道",中国天气
+http://117.135.56.6:6060/cms001/ch00000090990000001102/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
@@ -165,3 +193,13 @@ http://117.135.56.6:6060/cms001/ch00000090990000001091/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001087/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001071/index.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南频道",金鹰纪实
+http://117.135.56.6:6060/cms001/ch00000090990000001230/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="湖南频道",金鹰卡通
+http://117.135.56.6:6060/cms001/ch00000090990000001098/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南频道",茶友频道
+http://117.135.56.6:6060/cms001/ch00000090990000001234/index.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="湖南频道",快乐垂钓
+http://117.135.56.6:6060/cms001/ch00000090990000001235/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东频道",嘉佳卡通
+http://117.135.56.6:6060/cms001/ch00000090990000001227/index.m3u8
